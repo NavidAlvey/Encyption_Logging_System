@@ -1,0 +1,6 @@
+2024-03-18 16:51 [START] logging started
+2024-03-18 16:51 [LOGIN] create login
+2024-03-18 16:51 [EXIT] login
+2024-03-18 16:51 [QUIT]2024-03-18 16:55 [START] 
+2024-03-18 16:55 [START] logging started
+2024-03-18 16:55 [QUIT]
