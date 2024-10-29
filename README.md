@@ -35,7 +35,7 @@ When running the program, you will have access to the following commands:
 - `history` - Display the history of previously entered passwords.
 - `quit` - Quit the program and close all processes.
 
-## Usage:
+## Usage
 - Start the program by running `Driver.java`.
 - Enter `password` to set a passkey for encryption and decryption.
 - Use `encrypt` or `decrypt` commands to transform messages.
